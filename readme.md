@@ -207,8 +207,8 @@ If there was no treatment in PAEMAL, there would be a tendency of higher hits in
 In clinical practice, the absorption of a malignant sample (e.g., cancer) leads to a false negative. It is worth noting that the patient's chances of recovery are associated with early detection of the tumor. Then, the proposed paper is inspired by the state-of-the-art methodological care of biomedical engineering in order to reserve relevant amounts of benign and malware specimens in separate packages for training and testing. Therefore, assuming a sample reserved for testing with little or no instance of the malware class, then the classification, tendentious to the benign class, would have its favored hit rate. Therefore, the proposed paper presents the methodological care to select equally, randomly, benign and malware samples destined for training and testing.
 The purpose of PAEMAL dataset creation is to give a full possibility that the proposed methodology being replicated by third parties in future works. Therefore, PAEMAL freely makes available all its benign and malware samples:
 
-Virustotal audits,
+• Virustotal audits,
 
-Dynamic analysis of our Web-Server Next Generation Sandbox, 
+• Dynamic analysis of our Web-Server Next Generation Sandbox. 
 
 In its virtual address, PAEMAL also provides its 1000 benign PHP files. In addition, our base displays the relationship of all other 200 PHP files, this time, malwares. Then, there is the possibility of acquiring all malwares, employed by PAEMAL, through the establishment of agreement and submission to the terms of use of ViruShare. It is concluded that our PAEMAL database enables transparency and impartiality to research, in addition to demonstrating the truthfulness of the results achieved. Then, PAEMAL is expected to serve as a basis for the creation of new scientific works targeting new Web-Server Next Generation Antivirus.
