@@ -1,6 +1,11 @@
 # PAEMAL
 (PHP Analysis Environment Applied to Malware Machine Learning)
 
+    Sidney Lima, Sthéfano Silva, Ricardo Pinheiro et al. 
+    Next-Generation Antivirus endowed with Web-Server SandBox Applied to Audit Fileless Attack, 
+    23 February 2022, PREPRINT (Version 1) available at Research Square 
+    https://doi.org/10.21203/rs.3.rs-390916/v1
+
 ## Commercial Antiviruses Limitation
 
 Despite being questioned more than a decade ago, the modus operandi of the antiviruses is based on signatures when the suspicious file is queried in blacklisted named databases. Therefore, it is enough that the hash of the investigated file is not in the blacklist of the antivirus so that the malware is not detected. The hash functions as a unique identifier for a specific file. So, knowing the limitations of commercial antiviruses, it is not a difficult task to develop and distribute variants of a malicious application. To do this, simply make minor changes to the original malware with routines that effectively have no utility for the program, such as repeating loops and conditional deviations without instructions in their scopes. These unuseful changes, however, make the hash of the modified malware different from the hash of the original malware. Consequently, the malware, incremented with null routines, will not be detected by the antivirus which catalogued the original malware. It is worth noting the existence of botnets responsible for creating and distributing variants, in an automated way, of the same original malware. We conclude that antiviruses, based on signatures, have null effectiveness when subjected to variants of the same malware.
