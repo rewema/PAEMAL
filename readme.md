@@ -5,6 +5,10 @@
     Next-Generation Antivirus endowed with Web-Server SandBox Applied to Audit Fileless Attack, 
     23 February 2022, PREPRINT (Version 1) available at Research Square 
     https://doi.org/10.21203/rs.3.rs-390916/v1
+    
+## How to use our dataset in Matlab
+
+[TrainingTime, TestingTime, TrainingAccuracy, TestingAccuracy] = ['MLP'](https://github.com/refade/Artificial-intelligence-based-antivirus-in-order-to-detect-malware-preventively/blob/main/MLP.m)(['Antivirus_Dataset_Jar.mat'](https://github.com/rewema/REJAFADA/blob/master/Antivirus_Dataset_Jar.zip), 1, 500, 'traincgb', 0)
 
 ## Commercial Antiviruses Limitation
 
