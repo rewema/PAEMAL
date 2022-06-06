@@ -8,7 +8,7 @@
     
 ## How to use our dataset in Matlab
 
-[TrainingTime, TestingTime, TrainingAccuracy, TestingAccuracy] = ['MLP'](https://github.com/refade/Artificial-intelligence-based-antivirus-in-order-to-detect-malware-preventively/blob/main/MLP.m)(['Antivirus_Dataset_Jar.mat'](https://github.com/rewema/REJAFADA/blob/master/Antivirus_Dataset_Jar.zip), 1, 500, 'traincgb', 0)
+[TrainingTime, TestingTime, TrainingAccuracy, TestingAccuracy] = ['MLP'](https://github.com/refade/Artificial-intelligence-based-antivirus-in-order-to-detect-malware-preventively/blob/main/MLP.m)(['Antivirus_Dataset_PHP_batch_1.mat'](https://github.com/rewema/PAEMAL/blob/master/Antivirus_Dataset_PHP_batch_1.mat), 1, 500, 'traincgb', 0)
 
 ## Commercial Antiviruses Limitation
 
